@@ -1,4 +1,4 @@
-# meditranslate
+# Meditranslate
 A Free Resource for Front-Line Health Workers and Patients to communicate with one another, regardless of languages spoken
 
 Live Site: https://meditranslate.org
