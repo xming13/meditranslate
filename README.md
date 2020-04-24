@@ -6,7 +6,7 @@ Live Site: https://meditranslate.org
 
 ## Download files
 
-## Navigate to UI folder in the terminal run below commands
+## Navigate to UI folder in the terminal then run below commands
 
 ```sh
 npm install
@@ -16,7 +16,7 @@ npm install
 npm run start
 ```
 
-## Navigate to Server folder in the terminal run below commands
+## Navigate to Server folder in the terminal then run below commands
 
 ```sh
 npm install
