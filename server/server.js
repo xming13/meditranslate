@@ -31,7 +31,7 @@ app.use(cors());
 //bodyparser middleware
 app.use(bodyParser.json());
 app.use(bodyParser.json({type: ["json", "application/csp-report"],limit: "50mb"}));
-app.use(bodyParser.urlencoded({limit: "50mb", extended: true, parameterLimit:50000}));
+
 
 //routes
 //connect public folder
