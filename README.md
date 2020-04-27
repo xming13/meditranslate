@@ -1,5 +1,5 @@
 # Meditranslate
-I've volunterred to develop a free resource for meditranslate team which helps front-Line health workers and patients to communicate with one another, regardless of languages spoken
+I've volunterred to develop a free resource for meditranslate team to help front-Line health workers and patients to communicate with one another, regardless of languages spoken
 
 Live Site: https://meditranslate.org
 
