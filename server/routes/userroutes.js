@@ -7,7 +7,7 @@
   var path = ""
 
   if(phase == "dev"){
-    path = "/Users/pabbaanubharath/Desktop/projects/COVID/meditranslate/server/routes/medi_translate.csv"
+    path = "/Users/itsmypc/meditranslate/server/routes/medi_translate.csv"
   }else{
     path = "/"
   }
