@@ -198,149 +198,291 @@ Ageusia,মুখে কি স্বাদ কম লাগে?,Bengali / ব�
 Do you have diarrhoea? How many times a day?,আপনার কি পেট খারাপ হচ্ছে? হলে এক দিনে কত বার হয়?,Bengali / বাংলা,Symptoms
 Rash?,শরীরের কোনো জায়গায় কোনো রেশ বা চুলকানি আছে?,Bengali / বাংলা,Symptoms
 "Any pain? Specifically, any chest pain?","আপনার কি শরীরে কোনো জায়গায় ব্যাথা আছে? বিষেশ করে, কোন বুক ব্যথা আছে?",Bengali / বাংলা,Symptoms
-I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.,ကျနော််ဆရာဝန်တယောက်ပါ။ ဗမာစကားမပြောတတ်ပါဘူး ဒီwebsiteနဲ့အပြန်အလှန်စကားပြောပါမယ်။ အင်္ဂလိပ်လိုအတတ်နိုင်ဆုံ‌ေဖြ‌ပေးပါ။,"Burmese / ဗမာ",Greetings
-What's your name?,နာမည်ဘယ်လိုခေါ််ပါသလဲ။,"Burmese / ဗမာ",Greetings
-Please give me your Identitification Card / Work Permit,Identitification Card / Work Permit ‌‌ပြောပါ။,"Burmese / ဗမာ",Greetings
-"In the last 14 days, did you meet anyone who has coronavirus?",လွန်ခဲ.‌သော ၁၄ရက်အတွင်း ကိုရိုနာဗိုင်းရပ်စ်‌ေရောဂါရှိသူနှင်. ထိတွေ.ဘူးခြင်းရှိပါသလား။,"Burmese / ဗမာ",Contact with Others
-Who? What is your relationship with them?,ရောဂါရှိသူ၏အမည်နှင့် ထိုသူနှင်.မည်သို့ပါတ်သက် သည်ကိုဖေါ်််််ပြပါ။,"Burmese / ဗမာ",Contact with Others
-How many days ago did you meet them? (There is a number chart in the sidebar if they cannot answer),လွန်ခဲ့‌သော ဘယ်နှရက်ခန်.က ‌ထိုသူနှင်.‌တွေ.ဆုံခဲ.ပါသလဲ။ (‌အောက်တွင်ဖေါ်် ပြထား‌သောဇယားအတွင်း နံပါတ်ကိုရွေးချယ်ပေးနိုင်ပါသည်။,"Burmese / ဗမာ",Contact with Others
-How long were you with him/her?,အချိန် မည်မျှကြာမြင်.စွာထိုသူနှင်.အတူတကွရှိ ခဲ.ပါသလဲ။,"Burmese / ဗမာ",Contact with Others
-"In the last 14 days, did you travel out of this country? If yes, tell us the countries in English.",လွန်ခဲ.‌သော ၁၄ရက်အတွင်း စင်ကာပူနိုင်ငံပြင်ပသို. ခရီးသွားခဲ.ခြင်းရှိပါသလား။ သွားလာခဲ.ပါက သွားခဲ.‌ေသော နိုင်ငံများကိုအင်ဂလိပ်လိုဖေါ််််််ပြပေးပါ။,"Burmese / ဗမာ",Contact with Others
-Do you have a fever?,အဖျားရှိပါသလား။,"Burmese / ဗမာ",Symptoms
+I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.,ကျနော််ဆရာဝန်တယောက်ပါ။ ဗမာစကားမပြောတတ်ပါဘူး ဒီwebsiteနဲ့အပြန်အလှန်စကားပြောပါမယ်။ အင်္ဂလိပ်လိုအတတ်နိုင်ဆုံ‌ေဖြ‌ပေးပါ။,"Burmese /
+ဗမာ",Greetings
+What's your name?,နာမည်ဘယ်လိုခေါ််ပါသလဲ။,"Burmese /
+ဗမာ",Greetings
+Please give me your Identitification Card / Work Permit,Identitification Card / Work Permit ‌‌ပြောပါ။,"Burmese /
+ဗမာ",Greetings
+"In the last 14 days, did you meet anyone who has coronavirus?",လွန်ခဲ.‌သော ၁၄ရက်အတွင်း ကိုရိုနာဗိုင်းရပ်စ်‌ေရောဂါရှိသူနှင်. ထိတွေ.ဘူးခြင်းရှိပါသလား။,"Burmese /
+ဗမာ",Contact with Others
+Who? What is your relationship with them?,ရောဂါရှိသူ၏အမည်နှင့် ထိုသူနှင်.မည်သို့ပါတ်သက် သည်ကိုဖေါ်််််ပြပါ။,"Burmese /
+ဗမာ",Contact with Others
+How many days ago did you meet them? (There is a number chart in the sidebar if they cannot answer),လွန်ခဲ့‌သော ဘယ်နှရက်ခန်.က ‌ထိုသူနှင်.‌တွေ.ဆုံခဲ.ပါသလဲ။ (‌အောက်တွင်ဖေါ်် ပြထား‌သောဇယားအတွင်း နံပါတ်ကိုရွေးချယ်ပေးနိုင်ပါသည်။,"Burmese /
+ဗမာ",Contact with Others
+How long were you with him/her?,အချိန် မည်မျှကြာမြင်.စွာထိုသူနှင်.အတူတကွရှိ ခဲ.ပါသလဲ။,"Burmese /
+ဗမာ",Contact with Others
+"In the last 14 days, did you travel out of this country? If yes, tell us the countries in English.",လွန်ခဲ.‌သော ၁၄ရက်အတွင်း စင်ကာပူနိုင်ငံပြင်ပသို. ခရီးသွားခဲ.ခြင်းရှိပါသလား။ သွားလာခဲ.ပါက သွားခဲ.‌ေသော နိုင်ငံများကိုအင်ဂလိပ်လိုဖေါ််််််ပြပေးပါ။,"Burmese /
+ဗမာ",Contact with Others
+Do you have a fever?,အဖျားရှိပါသလား။,"Burmese /
+ဗမာ",Symptoms
 "How many days?
-(You may use this for multiple symptoms)",ဘယ်နှရက်ခန်.‌ဖျားနာ‌နေခဲ.ပါသလဲ။ အခြား‌သော‌‌ဝေဒနာများခံစားရပါက ‌ဖေါ်််််ပြ ‌ပေးပါ။,"Burmese / ဗမာ",Symptoms
-"Did you measure it with a thermometer? If you did, what was the highest reading?",အဖျားကိုသာမိုမီတာ သုံး၍တိုင်းတာခဲ.ပါသလား။ အမြင်.ဆုံးအပူချိန်ကို ‌ဖေါ်် ပြပေးပါ။,"Burmese / ဗမာ",Symptoms
-Runny nose?,နှာ‌စေး‌နေပါသလား။,"Burmese / ဗမာ",Symptoms
-Cough?,ချောင်းဆိုးနေပါသလား။,"Burmese / ဗမာ",Symptoms
-Sore throat?,လည်ပင်းနာ‌နေပါသလား။,"Burmese / ဗမာ",Symptoms
-Difficulty breathing?,အသက်ရှူကြပ်‌နေပါသလား။,"Burmese / ဗမာ",Symptoms
-Do you have diarrhoea? How many times a day?,ဝမ်းပျက်နေပါသလား။တစ်ရက်ဘယ်နှကြိမ်သွားပါသလဲ။,"Burmese / ဗမာ",Symptoms
-Rash?,အင်ပျင်များ ‌ကိုယ်‌ေပေါ််တွင် ‌ေပေါ်် လာပါသလား။,"Burmese / ဗမာ",Symptoms
-"Any pain? Specifically, any chest pain?",ကိုယ်လက်များနာကျင်နေပါသလား။ အထူးသဖြင်ရင်ဘတ်အောင်.ခြင်းနာခြင်းများဖြစ်ပါသလား။,"Burmese / ဗမာ",Symptoms
-Point to the place.,နာကျင်သော ‌နေရာကိုညွှန်ပြ ‌ေပေးပါ။,"Burmese / ဗမာ",Symptoms
-Do you have any past medical history?,သင်.တွင် ယခင်က အခြား‌သော‌ရောဂါများ ရှိခဲ.ပါသလား။,"Burmese / ဗမာ",Medical Conditions
-Please point to which ones.,ရှိခဲ.ပါကအောက်တွင်ဖေါ််််ပြ ထား‌သော ‌ရောဂါများအနက်မှ ‌ရွေးချယ်ပြပါ။,"Burmese / ဗမာ",Medical Conditions
-Asthma,ရင်ကြပ် ‌ရောဂါ,"Burmese / ဗမာ",Medical Conditions
-Pneumonia,အဆုတ်အအေးမိခြင်း,"Burmese / ဗမာ",Medical Conditions
-Hypertension,သွေးတိုး‌ရောဂါ,"Burmese / ဗမာ",Medical Conditions
-Hyperlipidemia,ကိုလက်စထရော များခြင်း,"Burmese / ဗမာ",Medical Conditions
-Diabetes,ဆီးချိုရောဂါ,"Burmese / ဗမာ",Medical Conditions
-Heart problems,နှလုံးအားနည်းခြင်း နှလုံး‌ရောဂါ,"Burmese / ဗမာ",Medical Conditions
-Kidney problems,ကျောက်ကပ်‌ရောဂါ,"Burmese / ဗမာ",Medical Conditions
-Loss of taste,အရသာခံစားမှုပျောက်ဆုံးခြင်း,"Burmese / ဗမာ",Symptoms
-Lost of Smell,အနံ.မရခြင်း ပျောက်ဆုံးခြင်း,"Burmese / ဗမာ",Symptoms
-Do you have a drug allergy?,မတည်.သည်.‌ဆေးအမျိုးအစားရှိပါသလား။ ‌ဖေါ်် ပြပေးပါ။,"Burmese / ဗမာ",Medical Conditions
-"Do you smoke? If yes, how many cigarettes a day?",ဆေးလိပ်သောက်ပါသလား။ တနေ.‌လျင်ဘယ်နှလိပ်သောက်ပါသလဲ။,"Burmese / ဗမာ",Medical Conditions
-"Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",အရက်ဘီယာ ‌ေသောက်ပါသလား။ (တပါတ်အတွင်း‌ေသောက်သုံး‌သော ပုလင်းအရေအတွက်နှင်. အမျိုးအစားကို‌ဖေါ်် ပြပါ။,"Burmese / ဗမာ",Medical Conditions
-"If you have any other problems, you can tell me in English.",အခြားပြသနာများရှိပါက ‌ေဖေါ်််် ပြ ပါ။အင်ဂလိပ်လိုပြောနိုင်ပါသည်။,"Burmese / ဗမာ",Medical Conditions
-I’m going to examine you.,စမ်းသပ်စစ်ဆေးမှု စတင်ပါ‌တော.မည်။,"Burmese / ဗမာ",Medical Instructions
-Tell me if you feel more pain.,နာကျင်မှုရှိပါက ‌ပြောပါ။,"Burmese / ဗမာ",Medical Instructions
-Please remove your shirt.,သင်၏အင်ကျီ ကိုချွတ် ‌ပေးပါ။,"Burmese / ဗမာ",Medical Instructions
-Keep taking deep breaths through your mouth.,ပါးစပ်မှ အသက်ကိုခပ်ပြင်းပြင်းရှူပေးပါ။,"Burmese / ဗမာ",Medical Instructions
-"Say ""99"" when I listen with my stethoscope.","နားကြပ်ကိရိယာဖြင်.နား‌ထောင်နေသောအချိန် တွင် နိုင်တီနိုင်း ""99"" ဟုပြော ပါ။","Burmese / ဗမာ",Medical Instructions
-I'm going to put this cotton bud into your nostril. You will feel strange but it is not painful,နားကြပ်တံလေးကိုသင်.၏နှာ‌ခေါင်း ‌ပေါက် အတွင်းသို.ထိုးသွင်းပါ‌တော.မည်။ အနည်းငယ်မသက်မသာဖြစ်ပါလိမ်.မည်။မနာကျင်ပါ။,"Burmese / ဗမာ",Medical Instructions
-This is to test for coronavirus,ဤသို.ပြုလုပ်ခြင်းသည် ကိုရိုနာဗိုင်းရပ်စ် အတွက် စမ်းသပ်မှုဖြစ် ပါသည်။,"Burmese / ဗမာ",Medical Instructions
-Tilt your head back,ခေါင်းကိုအနောက်သို.အနည်းငယ်မော.‌ပေးပါ။,"Burmese / ဗမာ",Medical Instructions
-"If coronavirus positive, we call your phone by tomorrow.",ကိုရိုနာဗိုင်းရပ်စ် ‌တွေ.ရှိပါက ‌‌ဆေးရုံမှသင်.၏မိုဘိုင်းဖုန်းကို မနက်ဖန်တွင်ဆက်သွယ်ပါလိမ်.မည်။,"Burmese / ဗမာ",Medical Instructions
-"If coronavirus negative, we send you SMS (text) after 3 days",ကိုရိုနာဗိုင်းရပ်စ် ‌မ တွေ.ရှိပါက ‌‌ဆေးရုံမှသင်.၏မိုဘိုင်းဖုန်းကို ၃ရက် အကြာတွင် မက်ဆေ.ပို.ပါလိမ်.မည်။,"Burmese / ဗမာ",Medical Instructions
-"Later, you will do an X-ray",ခနနေလျင်သင့်အားဓါတ်မှန်ရိုက်ပါမည်။,"Burmese / ဗမာ",Medical Instructions
-There is no sign of infection on your X-ray,ဓါတ်မှန်တွင် ‌ရောဂါကူးစက်သော အရိပ်အယောင်မ‌တွေ.ရှိပါ။,"Burmese / ဗမာ",Medical Instructions
-You can go back soon.,မကြာမီ သင်ပြန်နိုင်ပါလိမ်.မည်။,"Burmese / ဗမာ",Medical Instructions
-"Wait here, do not leave this area",ဤ‌နေရာတွင်ခန‌စောင့်ပေးပါ။ ဘယ်မှမသွားပါနှင်.။,"Burmese / ဗမာ",Medical Instructions
-You have to stay in the hospital for a few days,သင်ဆေးရုံတွင်ရက်အနည်းငယ်နေရန်လိုအပ်ပါသည်။,"Burmese / ဗမာ",Medical Instructions
-We need to transfer you to another location.,သင်.အားအခြားတနေရာသို.‌ပြောင်း‌ရွှေ.‌ပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-I'll give you medicine to make you feel better,သင်သက်သာ‌စေရန် ‌ဆေး‌ပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-You must not work for next 5 days.,သင် ‌နောက် ၅ရက်အတွင်း အလုပ်လုပ်ရန်မလိုပါ။,"Burmese / ဗမာ",Medical Instructions
-You must come back if you have problems with breathing.,သင်အသက်ရှူရာတွင် အဆင်မ‌ပြေ ပါက ပြသနာရှိပါက ‌ဆေးရုံဆေးခန်းသို.ပြန် လာ‌ပြပါ။,"Burmese / ဗမာ",Medical Instructions
-You must come back if you do not recover completely after 5 days,နောက် ၅ရက်အတွင်း မသက်သာပါက ဆေးရုံဆေးခန်းသို.ပြန် လာ‌ပြပါ။,"Burmese / ဗမာ",Medical Instructions
-Read the handout carefully,ပေးထား‌ေသော ညွှန်ကြာချက်ကိုသေချာနားလည်အောင်ဖတ်ပါ။,"Burmese / ဗမာ",Medical Instructions
-Thank you,ကျေးဇူးတင်ပါသည်။,"Burmese / ဗမာ",Greetings
-Good morning / afternoon / evening,မင်္ဂလာပါ။,"Burmese / ဗမာ",Greetings
-I am the nurse,ကျွန်ုပ်သူနာပြုတစ်ယောက်ပါ။,"Burmese / ဗမာ",Greetings
-I am the doctor,ကျွန်ုပ်ဆရာဝန်တစ်ယောက်ပါ။,"Burmese / ဗမာ",Greetings
-You are in the intensive care unit.,သင်ယခုအထူးကြပ်မတ်ဆောင်အထဲရောက်နေပါသည်။,"Burmese / ဗမာ",Medical Instructions
-Today is Monday,ယနေ့တနင်္လာနေ့ဖြစ်သည်။,"Burmese / ဗမာ",Greetings
-Today is Tuesday,ယနေ့အင်္ဂါနေ့ဖြစ်သည်။,"Burmese / ဗမာ",Greetings
-Today is Wednesday,ယနေ့ဗုဒ္ဓဟူးနေ့ဖြစ်သည်။,"Burmese / ဗမာ",Greetings
-Today is Thursday,ယနေ့ကြာသပတေးနေ့ဖြစ်သည်။,"Burmese / ဗမာ",Greetings
-Today is Friday,ယနေ့သောကြာနေ့ဖြစ်သည်။,"Burmese / ဗမာ",Greetings
-Today is Saturday,ယနေ့စနေနေ့ဖြစ်သည်။,"Burmese / ဗမာ",Greetings
-Today is Sunday,ယနေ့တနင်္ဂနွေနေ့ဖြစ်သည်။,"Burmese / ဗမာ",Greetings
-You are getting better,သင်သက်သာသွားပါပြီ။,"Burmese / ဗမာ",Greetings
-We will remove the breathing tube when you are better,သင်သက်သာသွားလျှင်အသက်ရှူပိုက်ကိုဖြုတ်မည်။,"Burmese / ဗမာ",Medical Instructions
-You can talk after we remove the breathing tube,အသက်ရှူပိုက်ကိုဖြုတ်ပြီးလျှင်စကားပြောနိုင်သည်။,"Burmese / ဗမာ",Medical Instructions
-Take a deep breath,အသက်ပြင်းပြင်းတစ်ချက်ရှူ‌ပေးပါ။,"Burmese / ဗမာ",Medical Instructions
-Open your mouth,ချောင်းပြင်းပြင်းတစ်ချက်ဆိုး‌ပေးပါ။,"Burmese / ဗမာ",Medical Instructions
-Don’t struggle,မရုန်းကန်ပါနှင့်။,"Burmese / ဗမာ",Medical Instructions
-Don’t move,မလှုပ်ရှားပါနှင့်။,"Burmese / ဗမာ",Medical Instructions
-Lift up your arm,သင်၏လက်ကိုမြှောက်‌ပေးပါ။,"Burmese / ဗမာ",Medical Instructions
-Lift up your leg,သင်၏ခြေထောက်ကိုမြှောက်‌ပေးပါ။,"Burmese / ဗမာ",Medical Instructions
-Squeeze my hand,ကျွန်ုပ်လက်ကိုညှစ်‌ပေးပါ။,"Burmese / ဗမာ",Medical Instructions
-Show me two fingers,သင်၏လက်‌‌‌ေချာင်း ၂ ‌ချောင်းကိုထောင်ပြပါ။,"Burmese / ဗမာ",Medical Instructions
-Open your mouth,သင်၏ပါးစပ်ကို ဟပေးပါ။,"Burmese / ဗမာ",Medical Instructions
-Stick out your tongue,သင်၏ လျှာကိုအပြင်သို့ထုတ်ပါ။,"Burmese / ဗမာ",Medical Instructions
-Open your eyes,သင့်မျက်လုံးများကို ဖြဲပြပါ။,"Burmese / ဗမာ",Medical Instructions
-I’m going to shine a light into your eyes. It will be bright.,သင့်မျက်လုံးများကို ဓါတ်မီးဖြင်.စစ်ဆေးပါမည်။ အနည်းငယ်မျက်စိစူးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-Your lungs are weak. We are going to insert a breathing tube to help you breathe,သင်၏အဆုတ်မှာ အားနည်း‌နေပါသည်။ အသက်ရှူရလွယ်ကူအောင် အသက်ရှူ ‌လေပြွန်ကို ထည်.သွင်း‌ပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-You are going to sleep now,သင်အိပ်ပျော် သွားပါလိမ်.မည်။,"Burmese / ဗမာ",Medical Instructions
-We are turning you onto your belly to help your lungs expand,သင်၏အဆုတ်အနေအထားကျယ်ပြန်.‌စေရန်သင်.ကိုမှောက်ရက်အ ‌နေအထားသို.လှည်.‌ပေး‌နေပါသည်။,"Burmese / ဗမာ",Medical Instructions
-We are inserting a tube to help you pass urine,သင်ဆီးသွားရလွယ်ကူစေရန် သင်.ကို ဆီးပိုက်ထည်.သွင်း‌ပေး‌နေပါသည်။,"Burmese / ဗမာ",Medical Instructions
-We are inserting a tube through your nose,သင်.နှာ‌ခေါင်း‌ပေါက်အတွင်းသို. ပိုက်ကို ထည်.သွင်း‌ပေး‌နေပါသည်။,"Burmese / ဗမာ",Medical Instructions
-We are going to give you an injection in your neck to give you medications,သင်.ကိုဆေးသွင်း‌ပေးရန် သင်၏လည်ပင်းအတွင်းသို.‌ဆေးသွင်း‌ပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-We are going to give you an injection in your arm to measure your blood pressure,သင်၏ ‌သွေးဖိအားကို တိုင်းတာရန် သင်၏လက်မောင်းအတွင်းသို.‌ဆေးသွင်း‌ပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-We will give you sleeping medications.,သင်.ကိုအိပ်ဆေး‌ပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-We will give you painkillers.,သင်.ကို အကိုက်အခဲ ‌ပျောက်ဆေး‌ပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-We are giving you medication to keep your blood pressure up.,သွေးအားတက်စေရန်ဆေးပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-We are going to remove the breathing tube.,အသက်ရှူပိုက်ကိုဖြုတ်ပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-We are going to suck out your phlegm,သင်၏ချွဲကိုစုပ်ထုတ်ပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-We are going to clean you with a sponge,သင့်ကိုသန့်ရှင်းရေးလုပ်ပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-Turn left,ဘယ်ဘက်ကိုလှည့်ပါ။,"Burmese / ဗမာ",Medical Instructions
-Turn right,ညာဘက်ကိုလှည့်ပါ။,"Burmese / ဗမာ",Medical Instructions
-We will change your diapers,Diaperလဲပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-Lift up your leg,သင်၏ခြေထောက်ကိုမြှောက်‌ပေးပါ။,"Burmese / ဗမာ",Medical Instructions
-We are going to sit you up,သင့်ကိုထိုင်ရန်ထူပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-We are going to shift you up the bed,သင့်ကိုအပေါ်ကိုရွေ့ပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-We are going to clean your mouth,သင်၏ပါးစပ်ကိုသန့်ရှင်းပေးပါမည်။,"Burmese / ဗမာ",Medical Instructions
-Do not swallow the gargle,ပလုတ်ကျင်းပီးလျှင်မြိုမချပါနှင့်။,"Burmese / ဗမာ",Medical Instructions
-Are you in pain?,သင်နာကျင်နေပါသလား?,"Burmese / ဗမာ",Basic Terms
-Where is the pain?,နာကျင်မှုဘယ်မှာလဲ,"Burmese / ဗမာ",Basic Terms
-"Is it mild, moderate or severe?",ပျော့၊ အလယ်အလတ်လား၊,"Burmese / ဗမာ",Basic Terms
-Can you point to the pain?,သင်နာကျင်မှုကိုညွှန်ပြနိုင်ပါသလား?,"Burmese / ဗမာ",Basic Terms
-Head,ဦးခေါင်း,"Burmese / ဗမာ",Basic Terms
-eyes,မျက်စိ,"Burmese / ဗမာ",Basic Terms
-ears,နားရွက်,"Burmese / ဗမာ",Basic Terms
-nose,နှာခေါင်း,"Burmese / ဗမာ",Basic Terms
-mouth,ပါးစပ်,"Burmese / ဗမာ",Basic Terms
-throat,လည်ချောင်း,"Burmese / ဗမာ",Basic Terms
-chest,သေတ္တာ,"Burmese / ဗမာ",Basic Terms
-abdomen,ဝမ်း,"Burmese / ဗမာ",Basic Terms
-back,ပြန်.,"Burmese / ဗမာ",Basic Terms
-arms,လက်နက်,"Burmese / ဗမာ",Basic Terms
-legs,ခြေထောက်,"Burmese / ဗမာ",Basic Terms
-feet,ခြေဘဝါး,"Burmese / ဗမာ",Basic Terms
-1 - one,1 - တဦးတည်း,"Burmese / ဗမာ",Basic Terms
-2 - two,2 - နှစ်ခု,"Burmese / ဗမာ",Basic Terms
-3 - three,3 - သုံး,"Burmese / ဗမာ",Basic Terms
-4 - four,4 - လေး,"Burmese / ဗမာ",Basic Terms
-5 - five,5 - ငါး,"Burmese / ဗမာ",Basic Terms
-6 - six,6 - ခြောက်လ,"Burmese / ဗမာ",Basic Terms
-7 - seven,7 - ခုနစျပါး,"Burmese / ဗမာ",Basic Terms
-8 - eight,8 - ရှစ်,"Burmese / ဗမာ",Basic Terms
-9 - nine,9 - ကိုး,"Burmese / ဗမာ",Basic Terms
-10 - ten,10 - တဆယ်,"Burmese / ဗမာ",Basic Terms
-0 - zero,0 င် - သုည,"Burmese / ဗမာ",Basic Terms
-January,ဇန္နဝါရီလ,"Burmese / ဗမာ",Basic Terms
-Feb,ဖေဖော်ဝါရီ,"Burmese / ဗမာ",Basic Terms
-March,မတ်လ,"Burmese / ဗမာ",Basic Terms
-April,ဧပြီလ,"Burmese / ဗမာ",Basic Terms
-May,မေလ,"Burmese / ဗမာ",Basic Terms
-June,ဇွန်လ,"Burmese / ဗမာ",Basic Terms
-July,ဇူလိုင်လ,"Burmese / ဗမာ",Basic Terms
-August,သြဂုတ်လ,"Burmese / ဗမာ",Basic Terms
-September,စက်တင်ဘာလ,"Burmese / ဗမာ",Basic Terms
-October,အောက်တိုဘာလ,"Burmese / ဗမာ",Basic Terms
-November,နိုဝင်ဘာလ,"Burmese / ဗမာ",Basic Terms
-December,ဒီဇင်ဘာလ,"Burmese / ဗမာ",Basic Terms
+(You may use this for multiple symptoms)",ဘယ်နှရက်ခန်.‌ဖျားနာ‌နေခဲ.ပါသလဲ။ အခြား‌သော‌‌ဝေဒနာများခံစားရပါက ‌ဖေါ်််််ပြ ‌ပေးပါ။,"Burmese /
+ဗမာ",Symptoms
+"Did you measure it with a thermometer? If you did, what was the highest reading?",အဖျားကိုသာမိုမီတာ သုံး၍တိုင်းတာခဲ.ပါသလား။ အမြင်.ဆုံးအပူချိန်ကို ‌ဖေါ်် ပြပေးပါ။,"Burmese /
+ဗမာ",Symptoms
+Runny nose?,နှာ‌စေး‌နေပါသလား။,"Burmese /
+ဗမာ",Symptoms
+Cough?,ချောင်းဆိုးနေပါသလား။,"Burmese /
+ဗမာ",Symptoms
+Sore throat?,လည်ပင်းနာ‌နေပါသလား။,"Burmese /
+ဗမာ",Symptoms
+Difficulty breathing?,အသက်ရှူကြပ်‌နေပါသလား။,"Burmese /
+ဗမာ",Symptoms
+Do you have diarrhoea? How many times a day?,ဝမ်းပျက်နေပါသလား။တစ်ရက်ဘယ်နှကြိမ်သွားပါသလဲ။,"Burmese /
+ဗမာ",Symptoms
+Rash?,အင်ပျင်များ ‌ကိုယ်‌ေပေါ််တွင် ‌ေပေါ်် လာပါသလား။,"Burmese /
+ဗမာ",Symptoms
+"Any pain? Specifically, any chest pain?",ကိုယ်လက်များနာကျင်နေပါသလား။ အထူးသဖြင်ရင်ဘတ်အောင်.ခြင်းနာခြင်းများဖြစ်ပါသလား။,"Burmese /
+ဗမာ",Symptoms
+Point to the place.,နာကျင်သော ‌နေရာကိုညွှန်ပြ ‌ေပေးပါ။,"Burmese /
+ဗမာ",Symptoms
+Do you have any past medical history?,သင်.တွင် ယခင်က အခြား‌သော‌ရောဂါများ ရှိခဲ.ပါသလား။,"Burmese /
+ဗမာ",Medical Conditions
+Please point to which ones.,ရှိခဲ.ပါကအောက်တွင်ဖေါ််််ပြ ထား‌သော ‌ရောဂါများအနက်မှ ‌ရွေးချယ်ပြပါ။,"Burmese /
+ဗမာ",Medical Conditions
+Asthma,ရင်ကြပ် ‌ရောဂါ,"Burmese /
+ဗမာ",Medical Conditions
+Pneumonia,အဆုတ်အအေးမိခြင်း,"Burmese /
+ဗမာ",Medical Conditions
+Hypertension,သွေးတိုး‌ရောဂါ,"Burmese /
+ဗမာ",Medical Conditions
+Hyperlipidemia,ကိုလက်စထရော များခြင်း,"Burmese /
+ဗမာ",Medical Conditions
+Diabetes,ဆီးချိုရောဂါ,"Burmese /
+ဗမာ",Medical Conditions
+Heart problems,နှလုံးအားနည်းခြင်း နှလုံး‌ရောဂါ,"Burmese /
+ဗမာ",Medical Conditions
+Kidney problems,ကျောက်ကပ်‌ရောဂါ,"Burmese /
+ဗမာ",Medical Conditions
+Loss of taste,အရသာခံစားမှုပျောက်ဆုံးခြင်း,"Burmese /
+ဗမာ",Symptoms
+Lost of Smell,အနံ.မရခြင်း ပျောက်ဆုံးခြင်း,"Burmese /
+ဗမာ",Symptoms
+Do you have a drug allergy?,မတည်.သည်.‌ဆေးအမျိုးအစားရှိပါသလား။ ‌ဖေါ်် ပြပေးပါ။,"Burmese /
+ဗမာ",Medical Conditions
+"Do you smoke? If yes, how many cigarettes a day?",ဆေးလိပ်သောက်ပါသလား။ တနေ.‌လျင်ဘယ်နှလိပ်သောက်ပါသလဲ။,"Burmese /
+ဗမာ",Medical Conditions
+"Do you drink? If yes, how much (number of bottles a week, type of alcohol)?",အရက်ဘီယာ ‌ေသောက်ပါသလား။ (တပါတ်အတွင်း‌ေသောက်သုံး‌သော ပုလင်းအရေအတွက်နှင်. အမျိုးအစားကို‌ဖေါ်် ပြပါ။,"Burmese /
+ဗမာ",Medical Conditions
+"If you have any other problems, you can tell me in English.",အခြားပြသနာများရှိပါက ‌ေဖေါ်််် ပြ ပါ။အင်ဂလိပ်လိုပြောနိုင်ပါသည်။,"Burmese /
+ဗမာ",Medical Conditions
+I’m going to examine you.,စမ်းသပ်စစ်ဆေးမှု စတင်ပါ‌တော.မည်။,"Burmese /
+ဗမာ",Medical Instructions
+Tell me if you feel more pain.,နာကျင်မှုရှိပါက ‌ပြောပါ။,"Burmese /
+ဗမာ",Medical Instructions
+Please remove your shirt.,သင်၏အင်ကျီ ကိုချွတ် ‌ပေးပါ။,"Burmese /
+ဗမာ",Medical Instructions
+Keep taking deep breaths through your mouth.,ပါးစပ်မှ အသက်ကိုခပ်ပြင်းပြင်းရှူပေးပါ။,"Burmese /
+ဗမာ",Medical Instructions
+"Say ""99"" when I listen with my stethoscope.","နားကြပ်ကိရိယာဖြင်.နား‌ထောင်နေသောအချိန် တွင် နိုင်တီနိုင်း ""99"" ဟုပြော ပါ။","Burmese /
+ဗမာ",Medical Instructions
+I'm going to put this cotton bud into your nostril. You will feel strange but it is not painful,နားကြပ်တံလေးကိုသင်.၏နှာ‌ခေါင်း ‌ပေါက် အတွင်းသို.ထိုးသွင်းပါ‌တော.မည်။ အနည်းငယ်မသက်မသာဖြစ်ပါလိမ်.မည်။မနာကျင်ပါ။,"Burmese /
+ဗမာ",Medical Instructions
+This is to test for coronavirus,ဤသို.ပြုလုပ်ခြင်းသည် ကိုရိုနာဗိုင်းရပ်စ် အတွက် စမ်းသပ်မှုဖြစ် ပါသည်။,"Burmese /
+ဗမာ",Medical Instructions
+Tilt your head back,ခေါင်းကိုအနောက်သို.အနည်းငယ်မော.‌ပေးပါ။,"Burmese /
+ဗမာ",Medical Instructions
+"If coronavirus positive, we call your phone by tomorrow.",ကိုရိုနာဗိုင်းရပ်စ် ‌တွေ.ရှိပါက ‌‌ဆေးရုံမှသင်.၏မိုဘိုင်းဖုန်းကို မနက်ဖန်တွင်ဆက်သွယ်ပါလိမ်.မည်။,"Burmese /
+ဗမာ",Medical Instructions
+"If coronavirus negative, we send you SMS (text) after 3 days",ကိုရိုနာဗိုင်းရပ်စ် ‌မ တွေ.ရှိပါက ‌‌ဆေးရုံမှသင်.၏မိုဘိုင်းဖုန်းကို ၃ရက် အကြာတွင် မက်ဆေ.ပို.ပါလိမ်.မည်။,"Burmese /
+ဗမာ",Medical Instructions
+"Later, you will do an X-ray",ခနနေလျင်သင့်အားဓါတ်မှန်ရိုက်ပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+There is no sign of infection on your X-ray,ဓါတ်မှန်တွင် ‌ရောဂါကူးစက်သော အရိပ်အယောင်မ‌တွေ.ရှိပါ။,"Burmese /
+ဗမာ",Medical Instructions
+You can go back soon.,မကြာမီ သင်ပြန်နိုင်ပါလိမ်.မည်။,"Burmese /
+ဗမာ",Medical Instructions
+"Wait here, do not leave this area",ဤ‌နေရာတွင်ခန‌စောင့်ပေးပါ။ ဘယ်မှမသွားပါနှင်.။,"Burmese /
+ဗမာ",Medical Instructions
+You have to stay in the hospital for a few days,သင်ဆေးရုံတွင်ရက်အနည်းငယ်နေရန်လိုအပ်ပါသည်။,"Burmese /
+ဗမာ",Medical Instructions
+We need to transfer you to another location.,သင်.အားအခြားတနေရာသို.‌ပြောင်း‌ရွှေ.‌ပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+I'll give you medicine to make you feel better,သင်သက်သာ‌စေရန် ‌ဆေး‌ပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+You must not work for next 5 days.,သင် ‌နောက် ၅ရက်အတွင်း အလုပ်လုပ်ရန်မလိုပါ။,"Burmese /
+ဗမာ",Medical Instructions
+You must come back if you have problems with breathing.,သင်အသက်ရှူရာတွင် အဆင်မ‌ပြေ ပါက ပြသနာရှိပါက ‌ဆေးရုံဆေးခန်းသို.ပြန် လာ‌ပြပါ။,"Burmese /
+ဗမာ",Medical Instructions
+You must come back if you do not recover completely after 5 days,နောက် ၅ရက်အတွင်း မသက်သာပါက ဆေးရုံဆေးခန်းသို.ပြန် လာ‌ပြပါ။,"Burmese /
+ဗမာ",Medical Instructions
+Read the handout carefully,ပေးထား‌ေသော ညွှန်ကြာချက်ကိုသေချာနားလည်အောင်ဖတ်ပါ။,"Burmese /
+ဗမာ",Medical Instructions
+Thank you,ကျေးဇူးတင်ပါသည်။,"Burmese /
+ဗမာ",Greetings
+Good morning / afternoon / evening,မင်္ဂလာပါ။,"Burmese /
+ဗမာ",Greetings
+I am the nurse,ကျွန်ုပ်သူနာပြုတစ်ယောက်ပါ။,"Burmese /
+ဗမာ",Greetings
+I am the doctor,ကျွန်ုပ်ဆရာဝန်တစ်ယောက်ပါ။,"Burmese /
+ဗမာ",Greetings
+You are in the intensive care unit.,သင်ယခုအထူးကြပ်မတ်ဆောင်အထဲရောက်နေပါသည်။,"Burmese /
+ဗမာ",Medical Instructions
+Today is Monday,ယနေ့တနင်္လာနေ့ဖြစ်သည်။,"Burmese /
+ဗမာ",Greetings
+Today is Tuesday,ယနေ့အင်္ဂါနေ့ဖြစ်သည်။,"Burmese /
+ဗမာ",Greetings
+Today is Wednesday,ယနေ့ဗုဒ္ဓဟူးနေ့ဖြစ်သည်။,"Burmese /
+ဗမာ",Greetings
+Today is Thursday,ယနေ့ကြာသပတေးနေ့ဖြစ်သည်။,"Burmese /
+ဗမာ",Greetings
+Today is Friday,ယနေ့သောကြာနေ့ဖြစ်သည်။,"Burmese /
+ဗမာ",Greetings
+Today is Saturday,ယနေ့စနေနေ့ဖြစ်သည်။,"Burmese /
+ဗမာ",Greetings
+Today is Sunday,ယနေ့တနင်္ဂနွေနေ့ဖြစ်သည်။,"Burmese /
+ဗမာ",Greetings
+You are getting better,သင်သက်သာသွားပါပြီ။,"Burmese /
+ဗမာ",Greetings
+We will remove the breathing tube when you are better,သင်သက်သာသွားလျှင်အသက်ရှူပိုက်ကိုဖြုတ်မည်။,"Burmese /
+ဗမာ",Medical Instructions
+You can talk after we remove the breathing tube,အသက်ရှူပိုက်ကိုဖြုတ်ပြီးလျှင်စကားပြောနိုင်သည်။,"Burmese /
+ဗမာ",Medical Instructions
+Take a deep breath,အသက်ပြင်းပြင်းတစ်ချက်ရှူ‌ပေးပါ။,"Burmese /
+ဗမာ",Medical Instructions
+Open your mouth,ချောင်းပြင်းပြင်းတစ်ချက်ဆိုး‌ပေးပါ။,"Burmese /
+ဗမာ",Medical Instructions
+Don’t struggle,မရုန်းကန်ပါနှင့်။,"Burmese /
+ဗမာ",Medical Instructions
+Don’t move,မလှုပ်ရှားပါနှင့်။,"Burmese /
+ဗမာ",Medical Instructions
+Lift up your arm,သင်၏လက်ကိုမြှောက်‌ပေးပါ။,"Burmese /
+ဗမာ",Medical Instructions
+Lift up your leg,သင်၏ခြေထောက်ကိုမြှောက်‌ပေးပါ။,"Burmese /
+ဗမာ",Medical Instructions
+Squeeze my hand,ကျွန်ုပ်လက်ကိုညှစ်‌ပေးပါ။,"Burmese /
+ဗမာ",Medical Instructions
+Show me two fingers,သင်၏လက်‌‌‌ေချာင်း ၂ ‌ချောင်းကိုထောင်ပြပါ။,"Burmese /
+ဗမာ",Medical Instructions
+Open your mouth,သင်၏ပါးစပ်ကို ဟပေးပါ။,"Burmese /
+ဗမာ",Medical Instructions
+Stick out your tongue,သင်၏ လျှာကိုအပြင်သို့ထုတ်ပါ။,"Burmese /
+ဗမာ",Medical Instructions
+Open your eyes,သင့်မျက်လုံးများကို ဖြဲပြပါ။,"Burmese /
+ဗမာ",Medical Instructions
+I’m going to shine a light into your eyes. It will be bright.,သင့်မျက်လုံးများကို ဓါတ်မီးဖြင်.စစ်ဆေးပါမည်။ အနည်းငယ်မျက်စိစူးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+Your lungs are weak. We are going to insert a breathing tube to help you breathe,သင်၏အဆုတ်မှာ အားနည်း‌နေပါသည်။ အသက်ရှူရလွယ်ကူအောင် အသက်ရှူ ‌လေပြွန်ကို ထည်.သွင်း‌ပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+You are going to sleep now,သင်အိပ်ပျော် သွားပါလိမ်.မည်။,"Burmese /
+ဗမာ",Medical Instructions
+We are turning you onto your belly to help your lungs expand,သင်၏အဆုတ်အနေအထားကျယ်ပြန်.‌စေရန်သင်.ကိုမှောက်ရက်အ ‌နေအထားသို.လှည်.‌ပေး‌နေပါသည်။,"Burmese /
+ဗမာ",Medical Instructions
+We are inserting a tube to help you pass urine,သင်ဆီးသွားရလွယ်ကူစေရန် သင်.ကို ဆီးပိုက်ထည်.သွင်း‌ပေး‌နေပါသည်။,"Burmese /
+ဗမာ",Medical Instructions
+We are inserting a tube through your nose,သင်.နှာ‌ခေါင်း‌ပေါက်အတွင်းသို. ပိုက်ကို ထည်.သွင်း‌ပေး‌နေပါသည်။,"Burmese /
+ဗမာ",Medical Instructions
+We are going to give you an injection in your neck to give you medications,သင်.ကိုဆေးသွင်း‌ပေးရန် သင်၏လည်ပင်းအတွင်းသို.‌ဆေးသွင်း‌ပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+We are going to give you an injection in your arm to measure your blood pressure,သင်၏ ‌သွေးဖိအားကို တိုင်းတာရန် သင်၏လက်မောင်းအတွင်းသို.‌ဆေးသွင်း‌ပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+We will give you sleeping medications.,သင်.ကိုအိပ်ဆေး‌ပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+We will give you painkillers.,သင်.ကို အကိုက်အခဲ ‌ပျောက်ဆေး‌ပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+We are giving you medication to keep your blood pressure up.,သွေးအားတက်စေရန်ဆေးပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+We are going to remove the breathing tube.,အသက်ရှူပိုက်ကိုဖြုတ်ပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+We are going to suck out your phlegm,သင်၏ချွဲကိုစုပ်ထုတ်ပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+We are going to clean you with a sponge,သင့်ကိုသန့်ရှင်းရေးလုပ်ပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+Turn left,ဘယ်ဘက်ကိုလှည့်ပါ။,"Burmese /
+ဗမာ",Medical Instructions
+Turn right,ညာဘက်ကိုလှည့်ပါ။,"Burmese /
+ဗမာ",Medical Instructions
+We will change your diapers,Diaperလဲပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+Lift up your leg,သင်၏ခြေထောက်ကိုမြှောက်‌ပေးပါ။,"Burmese /
+ဗမာ",Medical Instructions
+We are going to sit you up,သင့်ကိုထိုင်ရန်ထူပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+We are going to shift you up the bed,သင့်ကိုအပေါ်ကိုရွေ့ပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+We are going to clean your mouth,သင်၏ပါးစပ်ကိုသန့်ရှင်းပေးပါမည်။,"Burmese /
+ဗမာ",Medical Instructions
+Do not swallow the gargle,ပလုတ်ကျင်းပီးလျှင်မြိုမချပါနှင့်။,"Burmese /
+ဗမာ",Medical Instructions
+Are you in pain?,သင်နာကျင်နေပါသလား?,"Burmese /
+ဗမာ",Basic Terms
+Where is the pain?,နာကျင်မှုဘယ်မှာလဲ,"Burmese /
+ဗမာ",Basic Terms
+"Is it mild, moderate or severe?",ပျော့၊ အလယ်အလတ်လား၊,"Burmese /
+ဗမာ",Basic Terms
+Can you point to the pain?,သင်နာကျင်မှုကိုညွှန်ပြနိုင်ပါသလား?,"Burmese /
+ဗမာ",Basic Terms
+Head,ဦးခေါင်း,"Burmese /
+ဗမာ",Basic Terms
+eyes,မျက်စိ,"Burmese /
+ဗမာ",Basic Terms
+ears,နားရွက်,"Burmese /
+ဗမာ",Basic Terms
+nose,နှာခေါင်း,"Burmese /
+ဗမာ",Basic Terms
+mouth,ပါးစပ်,"Burmese /
+ဗမာ",Basic Terms
+throat,လည်ချောင်း,"Burmese /
+ဗမာ",Basic Terms
+chest,သေတ္တာ,"Burmese /
+ဗမာ",Basic Terms
+abdomen,ဝမ်း,"Burmese /
+ဗမာ",Basic Terms
+back,ပြန်.,"Burmese /
+ဗမာ",Basic Terms
+arms,လက်နက်,"Burmese /
+ဗမာ",Basic Terms
+legs,ခြေထောက်,"Burmese /
+ဗမာ",Basic Terms
+feet,ခြေဘဝါး,"Burmese /
+ဗမာ",Basic Terms
+1 - one,1 - တဦးတည်း,"Burmese /
+ဗမာ",Basic Terms
+2 - two,2 - နှစ်ခု,"Burmese /
+ဗမာ",Basic Terms
+3 - three,3 - သုံး,"Burmese /
+ဗမာ",Basic Terms
+4 - four,4 - လေး,"Burmese /
+ဗမာ",Basic Terms
+5 - five,5 - ငါး,"Burmese /
+ဗမာ",Basic Terms
+6 - six,6 - ခြောက်လ,"Burmese /
+ဗမာ",Basic Terms
+7 - seven,7 - ခုနစျပါး,"Burmese /
+ဗမာ",Basic Terms
+8 - eight,8 - ရှစ်,"Burmese /
+ဗမာ",Basic Terms
+9 - nine,9 - ကိုး,"Burmese /
+ဗမာ",Basic Terms
+10 - ten,10 - တဆယ်,"Burmese /
+ဗမာ",Basic Terms
+0 - zero,0 င် - သုည,"Burmese /
+ဗမာ",Basic Terms
+January,ဇန္နဝါရီလ,"Burmese /
+ဗမာ",Basic Terms
+Feb,ဖေဖော်ဝါရီ,"Burmese /
+ဗမာ",Basic Terms
+March,မတ်လ,"Burmese /
+ဗမာ",Basic Terms
+April,ဧပြီလ,"Burmese /
+ဗမာ",Basic Terms
+May,မေလ,"Burmese /
+ဗမာ",Basic Terms
+June,ဇွန်လ,"Burmese /
+ဗမာ",Basic Terms
+July,ဇူလိုင်လ,"Burmese /
+ဗမာ",Basic Terms
+August,သြဂုတ်လ,"Burmese /
+ဗမာ",Basic Terms
+September,စက်တင်ဘာလ,"Burmese /
+ဗမာ",Basic Terms
+October,အောက်တိုဘာလ,"Burmese /
+ဗမာ",Basic Terms
+November,နိုဝင်ဘာလ,"Burmese /
+ဗမာ",Basic Terms
+December,ဒီဇင်ဘာလ,"Burmese /
+ဗမာ",Basic Terms
 I am a doctor. I do not speak your language. I will communicate with you using this website. Answer me in English as much as possible. Thank you.,Аз съм доктор. Не говоря български. Ще комуникирам с вас използвайки този уебсайтл Отговаряйте ми на английски колкото е възможно. Благодаря,Bulgarian / български,Greetings
 What's your name?,Аз съм доктор. Не говоря български. Ще комуникирам с вас използвайки този уебсайтл Отговаряйте ми на английски колкото е възможно. Благодаря,Bulgarian / български,Greetings
 Please give me your Identitification Card / Work Permit,"Моля, дайте ми лична карта или разрешително за работа.",Bulgarian / български,Greetings

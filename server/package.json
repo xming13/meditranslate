@@ -2,7 +2,7 @@
   "name": "vip",
   "version": "0.1.0",
   "private": true,
-  "main":"server.js",
+  "main": "server.js",
   "dependencies": {
     "bcrypt": "^4.0.1",
     "body-parser": "^1.18.2",

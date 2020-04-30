@@ -9,14 +9,9 @@
   if(phase == "dev"){
     path = "/Users/pabbaanubharath/Desktop/projects/COVID/meditranslate/server/routes/medi_translate.csv"
   }else{
-    path = "[SET-THE-FULL-PATH-HERE-OF-THE-FILE]"
+    path = "/"
   }
 
-  function getLanguageData(path,lang_name){
-
-
-
-  }
 
   router.get('/getLanguageData',function(req,res,next){
 
@@ -40,7 +35,10 @@
 
           // Your CSV data is in an array of arrys passed to this callback as rows.
           for(var i = 0 ; i < rows.length ; i++){
+            console.log('language_b',language_b)
+            console.log('language_b',rows[i][2])
             if(rows[i][2] == language_b){
+
               language_a_data.push([rows[i][0],rows[i][3]])
               language_b_data.push([rows[i][1],rows[i][3]])
               rows_sort.push(rows[i])
@@ -154,13 +152,11 @@
     var parse = require('csv-parse')
     console.log(req)
     var languages_supported = ["English"]
-    fs.readFile('/Users/pabbaanubharath/Desktop/projects/COVID/meditranslate/server/routes/medi_translate.csv', function (err, fileData) {
+    fs.readFile(path, function (err, fileData) {
       parse(fileData, {columns: false, trim: true}, function(err, rows) {
         // Your CSV data is in an array of arrys passed to this callback as rows.
         for(var i = 1 ; i < rows.length ; i++){
-
             languages_supported.push(rows[i][2])
-
         }
         //converting to a set
         let mySet = new Set(languages_supported)

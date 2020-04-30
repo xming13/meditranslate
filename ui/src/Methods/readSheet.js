@@ -2,21 +2,14 @@
 import excel from 'xlsx';
 import axios from 'axios';
 import {props__export} from '../App.js'
-let fileName = "../../assets/medi_translate.csv";
-const website_url = "http://localhost:8080"
 
-export function getExcelData(){
-  // let workbook = excel.readFile(fileName);
-  // console.log(workbook) //should print an array with the excel file data
-}
+const website_url = "http://localhost:8080"
 
 export function getSupportedLanguages(){
   axios.get(website_url+'/userroutes/getSupportedLanguages').then(res => {
     var supported_langs = res.data["supported_lang"]
     props__export.setState({supported_langs:supported_langs})
   })
-  // let workbook = excel.readFile(fileName);
-  // console.log(workbook) //should print an array with the excel file data
 }
 
 export function getLanguageData(lang_a,lang_b){
